@@ -1,0 +1,28 @@
+{
+  "name": "nailus.scss",
+  "version": "1.0.0",
+  "description": "Le Framework le plus populaire pour développer des projets réactifs et mobiles sur le web.",
+  "keywords": [
+    "nailuscss",
+    "bootstrap",
+    "typescript",
+    "javascript",
+    "sass",
+    "css"
+  ],
+  "homepage": "https://github.com/nailuslabs/nailus.scss#readme",
+  "bugs": {
+    "url": "https://github.com/nailuslabs/nailus.scss/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailuslabs/nailus.scss.git"
+  },
+  "license": "MIT",
+  "author": "nsounda nsilulu naïloth esdras",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
