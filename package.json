@@ -24,5 +24,9 @@
   "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sass": "^1.97.1",
+    "sass-true": "^10.1.0"
   }
 }
